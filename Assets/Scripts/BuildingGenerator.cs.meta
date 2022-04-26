@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eff39f8964314f2468235670c91dbb70
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 987910216414070992, guid: 34ee6303b54418b4ab9d65ef3f5a6657, type: 3}
+  - wallPrefab: {fileID: 9140669872853580223, guid: 31eeb78750e85574d8424843a9588b91, type: 3}
+  - roofPrefab: {fileID: 894927950197453373, guid: afd3f925780c2c745ba73d0c3b0d961e, type: 3}
+  - doorPrefab: {fileID: 7206512499163256106, guid: f71e3a7c0c7de3a4aa38593705f229ed, type: 3}
+  - windowPrefab: {fileID: 7666874820953630745, guid: ab64bc8ec35140b4b87bde50ab627130, type: 3}
+  - balconyPrefab: {fileID: 3628571222486124616, guid: 408ab70e91ca0f647bdfe7f96e54b6fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
